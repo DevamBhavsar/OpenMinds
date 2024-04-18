@@ -1,0 +1,2 @@
+# OpenMinds
+A news website
